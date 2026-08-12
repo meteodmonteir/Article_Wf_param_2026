@@ -1,6 +1,6 @@
 Replication codes for : Parameterization of the snow fracture energy to model the onset of crack propagation in snowpack models
 
-The attached zip files contains all required files to replicate results associated with the article : Parameterization of the snow fracture energy to model the onset of crack propagation in snowpack models.
+The attached files contains all required files to replicate results associated with the article : Parameterization of the snow fracture energy to model the onset of crack propagation in snowpack models.
 
 Crocus_simulation :
 
